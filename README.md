@@ -19,7 +19,7 @@ Check out my portfolio on CodeCanyon:
 - 🖼️ **Advanced Floating Sliding Panel** – Side-sliding promos & announcements  
   [View on CodeCanyon](https://1.envato.market/PdKGe?subId1=git_codetideswp)
 
-- 📊 **Advanced Charts Builder** – Create dynamic, customizable charts easily
+- 📊 **Advanced Charts Builder** – Create dynamic, customizable charts easily  
   [View on CodeCanyon](https://1.envato.market/GdnWm?subId1=git_codetideswp)
 
 - More plugins & full portfolio → [CodeCanyon Portfolio](https://1.envato.market/QdJoz?subId1=git_codetideswp)
