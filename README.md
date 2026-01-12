@@ -7,7 +7,7 @@ Building tools to boost conversions, engagement & user experience.
 ## My Premium Plugins
 Check out my portfolio on CodeCanyon:
 
-- 🚀 **Advanced Floating Content** (4419+ sales) – Sticky banners, CTAs & floating notifications  
+- 🚀 **Advanced Floating Content** (4400+ sales) – Sticky banners, CTAs & floating notifications  
   [View on CodeCanyon](https://1.envato.market/5By11?subId1=git_codetideswp)  <!-- replace with your exact item link if you have it -->
 
 - 🔒 **Contact Form 7 Popup Message** – Instant feedback popups for forms  
