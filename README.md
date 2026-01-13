@@ -2,7 +2,7 @@
 
 WordPress plugin developer | Elite Author on CodeCanyon
 
-Building tools to boost conversions, engagement & user experience.
+Building tools for better conversions, engagement, forms, charts, lockers & more.
 
 ## My Premium Plugins
 Check out my portfolio on CodeCanyon:
@@ -28,4 +28,4 @@ Check out my portfolio on CodeCanyon:
 - X (Twitter): [@CodeTides](https://x.com/CodeTides)
 - Email: codetides@gmail.com
 
-Thanks for visiting! Building better WP sites one plugin at a time. 💻
+Thanks for stopping by! Always improving WP tools for better sites. 💻🌟
